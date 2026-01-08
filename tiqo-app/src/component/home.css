@@ -1,0 +1,20 @@
+.forCenterItem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.groupColor{
+    height: 40px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.groupColor span{
+    margin-left: 20px;
+    height: 40px;
+    width: 120px;
+    border: 1px solid black;
+}

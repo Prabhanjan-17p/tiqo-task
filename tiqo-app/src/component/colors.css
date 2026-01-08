@@ -1,0 +1,17 @@
+
+.bgChange{
+    height: 40vh;
+    width: 40vw;
+}
+.redColor{
+    background-color: red;
+    transition: 1s ease-in-out;
+}
+.greenColor{
+    background-color: green;
+    transition: 1s ease-in-out;
+}
+.yellowColor{
+    background-color: yellow;
+    transition: 1s ease-in-out;
+}
